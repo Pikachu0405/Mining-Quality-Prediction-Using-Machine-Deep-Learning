@@ -21,9 +21,7 @@
 9. Compare models and calculate regression KPIs 
 
 
-**Project Award/Accomplishment Certificate: ** 
-
-[ Mining-Quality-Prediction-Using-Machine-Deep-Learning.pdf](https://github.com/Pikachu0405/Mining-Quality-Prediction-Using-Machine-Deep-Learning/files/7634473/Mining-Quality-Prediction-Using-Machine-Deep-Learning.pdf)
+**Project Award/Accomplishment Certificate:** [ Mining-Quality-Prediction-Using-Machine-Deep-Learning.pdf](https://github.com/Pikachu0405/Mining-Quality-Prediction-Using-Machine-Deep-Learning/files/7634473/Mining-Quality-Prediction-Using-Machine-Deep-Learning.pdf)
 
 ![image](https://user-images.githubusercontent.com/93926742/144249195-54fe3f8d-3504-4cee-a764-52accd4ea665.png)
 
